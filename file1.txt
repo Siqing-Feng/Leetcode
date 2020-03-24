@@ -1,1 +1,2 @@
 This is my first file in git repository.
+Add a new line here, indicating the first change.
